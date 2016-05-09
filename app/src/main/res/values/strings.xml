@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kubweb</string>
+    <string name="post_article">Add an article</string>
+    <string name="post_description">Post an article you wish to sell easily in simple steps</string>
+    <string name="request_article">Create a demand</string>
+    <string name="request_description">Post about something you wish to buy. Your peers will get that for you</string>
+    <string name="contact">Make contact</string>
+    <string name="contact_description">Contact your dealer and seal your juicy deal.</string>
+</resources>

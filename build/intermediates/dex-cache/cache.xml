@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_cee6bf2b9490932c731ff157b699eea390d2a208.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_062d7c313c291fd857bb99e6015992ed4352766f.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.github.medyo/fancybuttons/1.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bbe619be2edb7a2b2bb025ba5085e3bbfd27b955">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.github.medyo-fancybuttons-1.8_039552c5f802c36a2323065bd22e340a9de0d883.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_0ebb2098930536417d87604bd80ea267c056e216.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_1ec2ec541ef8a9c7dda41b040ea27f6ce68c5582.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.0_da0c93c9da73cc9dfc99f2129263429cfdbf52f9.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_c8ee121101e425fd57c83ef48dc41bdfa634b836.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_98ede2941538d48f41d25c2f6ad2520828cc1b53.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bbd470f524833532e041b110abe9e3d514d63eb">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.koushikdutta.ion-ion-2.1.7_4151d9fd19718282361e144a0f913ebc1b33a858.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.heinrichreimersoftware/material-intro/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="30e74f4af002cd833dc95b857357bb0381223dde">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.heinrichreimersoftware-material-intro-1.4_1b0dfb04778e04f07791757513713ce1b6a3b3fb.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.3.0_962ad068c4c27b4aaa14e6b019ac08bebc7d794a.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_06282e88f83739c49007ad6a5f8d6f9fe27bf13b.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_81ad30cb3a9b342f470400cbd9e58e99ca438f08.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.3.0_e601ba85a02ae172336e42620b53121e400e0c11.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_91dbedc83cb554e7df5af891d584beee221cccb3.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.0_d50425a1b592159655436b6657d8841829b4dd49.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_4a209cbf0009b277bbf9d2a9697ee0aee4663fa2.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/cn.pedant.sweetalert-library-1.3_99b3401e7c1e6a78a627e6c4f50c7799c3559690.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_a850e5a473a90f36be4008cd0bb8e0b4686ef412.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eace26bfd08119044e19e9fc0f9ae1bdffac83ed">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.koushikdutta.async-androidasync-2.1.7_dcaa61c2dc3e9a512c433671f5b67940899f6cad.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_7d320cd90837d76753dd85f59f7e792cf9922973.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.github.d-max/spots-dialog/0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.github.d-max-spots-dialog-0.4_21018192bcd418595fa5fb062e5d50953be7a41e.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.0_0f37fd9a72c11496b573ace74ae8cf857b88dc0c.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/gson-2.3_827b03ac466eea69671b5d185ef3cd2b47aa3b11.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_28adef9addf7e77b21f87e5f6e10f2b8ce20cd2c.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.oguzdev-CircularFloatingActionMenu-1.0.2_0775713f9b40a66cf52c85140cd230ac016bfd0d.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.synnapps/carouselview/0.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebac93e92df3136161ff1ac7b0595ca32a9e4b97">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.synnapps-carouselview-0.0.9_a21142f32af0dd7549ab8445d3c34e15f68813c7.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.3.0_05716563b03e9f69704a4421f6440278f801a8d4.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_8532e87fa0b4e8aa4284e8fc29dca5de5dd3b908.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_c27a45188e5920e6f6ba4e5d86c9f7bddef1f9b2.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_3498aa35d6028de1d82818f1efd143ac501554a5.jar" />
+    </item>
+    <item
+        jar="/root/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_9795747181d67e044c05f7fd6ebab6224c2cdb45.jar" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.3.0_1ddb5dee2bceb74a6c388e34d8a2d2fdf730586c.jar" />
+    </item>
+
+</items>

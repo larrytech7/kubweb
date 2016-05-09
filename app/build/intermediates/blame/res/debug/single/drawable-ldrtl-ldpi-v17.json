@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-ldrtl-ldpi-v17/ic_next.png",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.heinrichreimersoftware/material-intro/1.4/res/drawable-ldrtl-ldpi-v17/ic_next.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-ldrtl-ldpi-v17/ic_previous.png",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.heinrichreimersoftware/material-intro/1.4/res/drawable-ldrtl-ldpi-v17/ic_previous.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-ldrtl-ldpi-v17/ic_skip.png",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.heinrichreimersoftware/material-intro/1.4/res/drawable-ldrtl-ldpi-v17/ic_skip.png"
+    }
+]
