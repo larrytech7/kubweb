@@ -1,6 +1,5 @@
 package com.iceteck.kubweb;
 
-import android.Manifest;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 
@@ -38,6 +37,7 @@ public class WelcomeActivity extends IntroActivity {
                 .image(R.drawable.contact)
                 .background(R.color.colorPrimary)
                 .backgroundDark(android.R.color.background_light)
+                .canGoForward(false)
                 .build());
 
         /* Add your own page change listeners */
