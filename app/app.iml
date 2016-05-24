@@ -102,7 +102,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.7/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.synnapps/carouselview/0.0.9/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
@@ -120,7 +119,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="play-services-location-8.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-plus-8.3.0" level="project" />
-    <orderEntry type="library" exported="" name="carouselview-0.0.9" level="project" />
     <orderEntry type="library" exported="" name="play-services-auth-8.3.0" level="project" />
     <orderEntry type="library" exported="" name="picasso-2.5.2" level="project" />
     <orderEntry type="library" exported="" name="play-services-base-8.3.0" level="project" />

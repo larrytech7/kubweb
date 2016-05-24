@@ -64,16 +64,16 @@
         "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/src/main/res/layout/activity_welcome.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
-        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/src/main/res/layout/activity_welcome.xml"
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",

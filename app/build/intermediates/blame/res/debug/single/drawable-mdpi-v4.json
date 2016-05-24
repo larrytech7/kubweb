@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_action_dark_touch.png",
         "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/res/drawable-mdpi-v4/button_action_dark_touch.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
@@ -68,12 +68,12 @@
         "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/root/AndroidStudioProjects/Smconf/Kubweb/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
